@@ -1,4 +1,3 @@
-import { div } from "motion/react-client";
 import PakejUmrahHeroSection from "../components/pakej-umrah/Hero";
 import Packages from "../components/pakej-umrah/Package";
 
